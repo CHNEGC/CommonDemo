@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://C:/Users/sdj/Desktop/android-Camera2Basic-master/AndroidZxingScan/AndroidZxingScan.iml" filepath="C:/Users/sdj/Desktop/android-Camera2Basic-master/AndroidZxingScan/AndroidZxingScan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AndroidZxingScan-master.iml" filepath="$PROJECT_DIR$/AndroidZxingScan-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LibZxing/AndroidZxingScan-master-LibZxing.iml" filepath="$PROJECT_DIR$/LibZxing/AndroidZxingScan-master-LibZxing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/AndroidZxingScan-master-app.iml" filepath="$PROJECT_DIR$/app/AndroidZxingScan-master-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LibZxing/LibZxing.iml" filepath="$PROJECT_DIR$/LibZxing/LibZxing.iml" />
+      <module fileurl="file://C:/Users/sdj/Desktop/android-Camera2Basic-master/AndroidZxingScan/app/app.iml" filepath="C:/Users/sdj/Desktop/android-Camera2Basic-master/AndroidZxingScan/app/app.iml" />
+    </modules>
+  </component>
+</project>
